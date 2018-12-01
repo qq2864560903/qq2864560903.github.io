@@ -1,4 +1,4 @@
- @charset "gb2312";
+ @charset "UTF-8";
 .banner { background: url(../images/banner_top.jpg) top center; height: 265px; overflow: hidden }
 .picshow { width: 100%; overflow: hidden; margin: 20px auto; }
 .picshow li { width: 20%; display: inline-block; float: left; overflow: hidden; position: relative; }
